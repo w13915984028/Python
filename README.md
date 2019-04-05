@@ -1,6 +1,7 @@
 # Python
 Python code
 
+'''
 Parse and execute an expression like:
 ("3 +(5*(4/2)*3-2)+(1+2)*(6-4)+( 5)")
 
@@ -22,3 +23,4 @@ Support:
   +, -, *, /, (, ),  int(>=0)
 Not support: 
   hex(0x...),  negitave int( like -3)
+'''
